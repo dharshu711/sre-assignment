@@ -13,3 +13,6 @@ secret:
 serviceAccount:
   create: true
 
+autoscaling:
+  enabled: true
+
