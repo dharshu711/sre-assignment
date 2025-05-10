@@ -10,3 +10,6 @@ service:
 secret:
   password: MYPASSWORD
 
+serviceAccount:
+  create: true
+
